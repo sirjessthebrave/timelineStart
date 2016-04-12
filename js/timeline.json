@@ -1,0 +1,20 @@
+{
+  "timeline":{
+    "headline":"",
+    "type":"default",
+    "text":"",
+    "startDate":"2015,01,01",
+    "date":[
+      {
+        "startDate":"2014,10,01",
+        "headline":"October 1, 2014",
+        "text":"<div><h1>KITTENS</h1><img src=\"http://bit.ly/1VmKOMi\"><div>"
+      },
+      {
+        "startDate":"2015,09,30",
+        "headline":"September 30",
+        "text":"<div><h1>MOAR KITTENS</h1><img src=\"http://bit.ly/1N73g8y\"><div>"
+      }
+    ]
+  }
+}
